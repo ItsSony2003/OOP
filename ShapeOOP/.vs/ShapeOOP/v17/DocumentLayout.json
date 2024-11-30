@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CodeGym\\Work\\OOP\\ShapeOOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB3687D-3D81-412E-BC36-1B7E4BC631B0}|ShapeOOP\\ShapeOOP.csproj|e:\\codegym\\work\\oop\\shapeoop\\shapeoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB3687D-3D81-412E-BC36-1B7E4BC631B0}|ShapeOOP\\ShapeOOP.csproj|solutionrelative:shapeoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CodeGym\\Work\\OOP\\ShapeOOP\\ShapeOOP\\Program.cs",
+              "RelativeDocumentMoniker": "ShapeOOP\\Program.cs",
+              "ToolTip": "E:\\CodeGym\\Work\\OOP\\ShapeOOP\\ShapeOOP\\Program.cs",
+              "RelativeToolTip": "ShapeOOP\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:01:59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
