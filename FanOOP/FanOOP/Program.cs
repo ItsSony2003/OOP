@@ -36,17 +36,13 @@ namespace FanOOP
         public const int MEDIUM = 2;
         public const int FAST = 3;
 
-        private int speed;
-        private bool on;
-        private double radius;
-        private string color;
+        private int speed = SLOW;
+        private bool on = false;
+        private double radius = 5;
+        private string color = "blue";
 
         public Fan()
         {
-            speed = SLOW;
-            on = false;
-            radius = 5;
-            this.color = "blue";
         }
 
         public int Speed
